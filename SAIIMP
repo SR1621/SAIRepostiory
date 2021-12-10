@@ -1,0 +1,7 @@
+sudo -s 
+git config --global user.name "LRKSAI"
+git config --global user.email "lrksai@gmail.com"
+
+mkdir newproject
+cd newprojecct
+ls -ltr
